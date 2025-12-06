@@ -18,44 +18,16 @@ A production-ready conversational chatbot with comprehensive sentiment analysis 
 
 ### 🎁 Bonus Features
 - **Advanced Sentiment Engine**: Lexicon-based analyzer with:
-  - Negation handling (e.g., "not good" → negative)
-  - Intensifier detection (e.g., "very good" → stronger positive)
-  - Context-aware scoring with configurable windows
-  - Weighted keyword matching for nuanced analysis
   
 - **Persistent Storage**: 
-  - Automatic conversation saving to local files
-  - Dual format: JSON (structured) + TXT (human-readable)
-  - Complete sentiment analysis preservation
-  - Session management with unique IDs
-  - Conversation history retrieval
-  - Storage directory management
   
 - **Dynamic Response System**: 
-  - Context-aware responses based on conversation flow
-  - Sentiment streak tracking (consecutive positive/negative)
-  - Empathy escalation for persistent issues
-  - Encouragement when sentiment improves
-  - Random template selection for natural variation
-  - Score-based response intensity
   
 - **Production-Ready Architecture**:
-  - Modular, object-oriented design
-  - Type hints throughout for maintainability
-  - Comprehensive error handling
-  - Extensible class structure
   
 - **Rich Analytics**:
-  - Sentiment distribution statistics
-  - Trend detection (improving/declining/stable)
-  - Average sentiment scoring
-  - Timestamp tracking for temporal analysis
   
 - **Comprehensive Test Suite**:
-  - 25+ unit and integration tests
-  - 95%+ code coverage
-  - Edge case validation
-  - Pytest framework integration
 
 ## Quick Start
 
