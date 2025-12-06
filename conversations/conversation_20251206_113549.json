@@ -1,0 +1,44 @@
+{
+  "session_id": "20251206_113549",
+  "start_time": "2025-12-06T11:35:52.932821",
+  "end_time": "2025-12-06T11:35:52.932821",
+  "total_messages": 2,
+  "messages": [
+    {
+      "speaker": "User",
+      "text": "bad",
+      "sentiment": "Negative",
+      "sentiment_score": -1.0,
+      "timestamp": "2025-12-06T11:35:52.932821"
+    },
+    {
+      "speaker": "Chatbot",
+      "text": "Greetings! How may I support you today?",
+      "sentiment": "",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:35:52.932821"
+    }
+  ],
+  "sentiment_analysis": {
+    "summary": {
+      "overall_sentiment": "Negative",
+      "average_score": -1.0,
+      "sentiment_distribution": {
+        "Positive": 0,
+        "Neutral": 0,
+        "Negative": 1
+      },
+      "trend_description": "Insufficient data for trend analysis",
+      "total_messages": 1
+    },
+    "statement_level": [
+      {
+        "message_number": 1,
+        "text": "bad",
+        "sentiment": "Negative",
+        "sentiment_score": -1.0,
+        "timestamp": "2025-12-06T11:35:52.932821"
+      }
+    ]
+  }
+}

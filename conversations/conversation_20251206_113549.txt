@@ -1,0 +1,40 @@
+======================================================================
+SENTIMENT ANALYSIS CHATBOT - CONVERSATION TRANSCRIPT
+======================================================================
+
+Session ID: 20251206_113549
+Start Time: 2025-12-06T11:35:52.932821
+End Time: 2025-12-06T11:35:52.932821
+Total Messages: 2
+
+======================================================================
+CONVERSATION
+======================================================================
+
+[2025-12-06T11:35:52.932821] User: bad
+  → Sentiment: Negative (score: -1.000)
+
+[2025-12-06T11:35:52.932821] Chatbot: Greetings! How may I support you today?
+
+======================================================================
+STATEMENT-LEVEL SENTIMENT ANALYSIS (Tier 2)
+======================================================================
+
+Message 1:
+User: "bad"
+→ Sentiment: Negative (score: -1.000)
+
+======================================================================
+CONVERSATION-LEVEL SENTIMENT ANALYSIS (Tier 1)
+======================================================================
+
+Overall Sentiment: Negative
+Average Score: -1.000
+
+Sentiment Distribution:
+  Positive: 0 messages (0.0%)
+  Neutral: 0 messages (0.0%)
+  Negative: 1 messages (100.0%)
+
+Trend Analysis: Insufficient data for trend analysis
+Total User Messages: 1

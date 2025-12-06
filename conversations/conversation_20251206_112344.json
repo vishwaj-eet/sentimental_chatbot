@@ -1,0 +1,107 @@
+{
+  "session_id": "20251206_112344",
+  "start_time": "2025-12-06T11:24:04.504575",
+  "end_time": "2025-12-06T11:26:10.045606",
+  "total_messages": 8,
+  "messages": [
+    {
+      "speaker": "User",
+      "text": "i don't like your service",
+      "sentiment": "Neutral",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:24:04.504575"
+    },
+    {
+      "speaker": "Chatbot",
+      "text": "Hi there! What brings you here?",
+      "sentiment": "",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:24:04.504575"
+    },
+    {
+      "speaker": "User",
+      "text": "your service is bad",
+      "sentiment": "Negative",
+      "sentiment_score": -0.25,
+      "timestamp": "2025-12-06T11:25:45.039157"
+    },
+    {
+      "speaker": "Chatbot",
+      "text": "I hear your concern. I'll make sure this gets addressed.",
+      "sentiment": "",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:25:45.039157"
+    },
+    {
+      "speaker": "User",
+      "text": "improve yourself",
+      "sentiment": "Neutral",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:25:56.186048"
+    },
+    {
+      "speaker": "Chatbot",
+      "text": "I understand. What would you like to discuss?",
+      "sentiment": "",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:25:56.186048"
+    },
+    {
+      "speaker": "User",
+      "text": "your service was better before",
+      "sentiment": "Positive",
+      "sentiment_score": 0.2,
+      "timestamp": "2025-12-06T11:26:10.045606"
+    },
+    {
+      "speaker": "Chatbot",
+      "text": "That's fantastic! What else can I help you with?",
+      "sentiment": "",
+      "sentiment_score": 0.0,
+      "timestamp": "2025-12-06T11:26:10.045606"
+    }
+  ],
+  "sentiment_analysis": {
+    "summary": {
+      "overall_sentiment": "Neutral",
+      "average_score": -0.012499999999999997,
+      "sentiment_distribution": {
+        "Positive": 1,
+        "Neutral": 2,
+        "Negative": 1
+      },
+      "trend_description": "Stable - sentiment remained consistent throughout",
+      "total_messages": 4
+    },
+    "statement_level": [
+      {
+        "message_number": 1,
+        "text": "i don't like your service",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.0,
+        "timestamp": "2025-12-06T11:24:04.504575"
+      },
+      {
+        "message_number": 3,
+        "text": "your service is bad",
+        "sentiment": "Negative",
+        "sentiment_score": -0.25,
+        "timestamp": "2025-12-06T11:25:45.039157"
+      },
+      {
+        "message_number": 5,
+        "text": "improve yourself",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.0,
+        "timestamp": "2025-12-06T11:25:56.186048"
+      },
+      {
+        "message_number": 7,
+        "text": "your service was better before",
+        "sentiment": "Positive",
+        "sentiment_score": 0.2,
+        "timestamp": "2025-12-06T11:26:10.045606"
+      }
+    ]
+  }
+}
